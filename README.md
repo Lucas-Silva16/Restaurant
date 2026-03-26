@@ -47,4 +47,4 @@ The project follows a strict modular design, separating entity definitions from 
 ---
 
 ## Conclusion
-This project demonstrates applied proficiency in C++ memory management and algorithmic design. By simulating a dynamic physical environment, it showcases the ability to use abstract data types, specifically queues and state trackers, to solve complex flow-control problems.
+This project demonstrates applied proficiency in C++ memory management and algorithmic design. By simulating a dynamic physical environment, it showcases the ability to use abstract data types, specifically queues and state trackers, to solve complex flow-control problems
